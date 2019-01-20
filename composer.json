@@ -1,0 +1,14 @@
+{
+    "name": "shengj/deps",
+    "description": "deps",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "小粽子",
+            "email": "862275679@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
